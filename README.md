@@ -11,6 +11,7 @@
   <img align="center" alt="Enzo-CSS" height="60" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Enzo-Mysql" height="60" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/>
   <img align="center" alt="Enzo-Nodejs" height="60" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg"/>
+  <img align="center" alt="Enzo-Git" height="60" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg"/>
 </div>
 
 ## 
