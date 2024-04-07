@@ -11,7 +11,7 @@
 ## 
  <p align="center"><br>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,html,css,mysql,nodejs,git,java,vscode,arduino,ps,linux,powershell" />
+    <img src="https://skillicons.dev/icons?i=js,html,css,mysql,nodejs,git,java,vscode,linux,powershell" />
   </a>
 
 ![Snake animation](https://github.com/LuigiGF/LuigiGF/blob/output/github-contribution-grid-snake.svg)
