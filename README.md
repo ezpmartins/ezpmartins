@@ -9,8 +9,11 @@
 
 
    
-## 
+
+
+
  <p align="center"><br>
+    
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=js,html,css,mysql,nodejs,git,java,spring,python,vscode,linux,powershell" />
   </a>
