@@ -3,7 +3,7 @@
 
 - 💻 Estudante de ADS
 - 🏢 São Paulo Tech School
-- 📧 Contato: enzo.martins@sptech.school
+- 📧 Contato: enzop.martins@icloud.com
 
 
 
@@ -12,8 +12,8 @@
 
 
 
- <p align="center"><br>
+ <p align="center"><br><br>
     
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,html,css,mysql,nodejs,git,java,spring,python,vscode,linux,powershell" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,java,spring,python,cpp,mysql,aws,azure,git,linux" />
   </a>
