@@ -8,8 +8,8 @@
 <div style="display: flex; justify-content: center; align-items: center; flex-wrap: wrap;">
     <div>
         <a href="https://github.com/ezpmartins">
-            <img height="160em" src="https://github-readme-stats.vercel.app/api?username=ezpmartins&count_private=true&show_icons=true&title_color=8A2BE2&text_color=8A2BE2&icon_color=8A2BE2&bg_color=191919&border_radius=20&hide_border=true"/>
-            <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ezpmartins&layout=compact&title_color=8A2BE2&text_color=8A2BE2&bg_color=191919&border_radius=20&langs_count=5&&hide_border=true"/>
+            <img height="160em" src="https://github-readme-stats.vercel.app/api?username=ezpmartins&count_private=true&show_icons=true&title_color=8A2BE2&text_color=FFFF&icon_color=8A2BE2&bg_color=191919&border_radius=20&hide_border=true"/>
+            <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ezpmartins&layout=compact&title_color=8A2BE2&text_color=FFFF&bg_color=191919&border_radius=20&langs_count=5&&hide_border=true"/>
         </a>
     </div>
     <div>
