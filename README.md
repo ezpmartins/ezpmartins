@@ -14,7 +14,7 @@
     </div>
     <div>
         <img src="./imgs/kiya.png" 
-             min-width="400px" max-width="400px" width="400px" alt="Cachorro com PC">
+             min-width="400px" max-width="200px" width="200px" alt="Cachorro com PC">
     </div>
 </div>
 </div>
