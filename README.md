@@ -13,8 +13,8 @@
         </a>
     </div>
     <div>
-        <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" 
-             min-width="400px" max-width="400px" width="400px" alt="Computador">
+        <img src="./imgs/kiya.png" 
+             min-width="400px" max-width="400px" width="400px" alt="Cachorro com PC">
     </div>
 </div>
 </div>
