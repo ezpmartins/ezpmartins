@@ -64,13 +64,15 @@
 <div align="center">
    
 <h3> Sobre mim </h3>
-<p>
-🎓 Estou no último semestre do curso de Análise e Desenvolvimento de Sistemas na SPTech e sempre buscando aprender mais para me manter atualizado.
+<p style="text-align: justify;">
+🎓 Estou no último semestre do curso de Análise e Desenvolvimento de Sistemas na SPTech e estou sempre em busca de novos aprendizados para me manter atualizado no mundo da tecnologia.
 
-💻 Atualmente, sou estagiário na área de Segurança da Informação, focado em Arquitetura e Redes (Blue Team) na SEK, mas meu objetivo é migrar para a área de desenvolvimento no futuro. Desde pequeno, adorava inventar coisas e resolver problemas. Foi na programação que encontrei a junção perfeita entre criatividade e tecnologia, me apaixonando pelo código e consolidando o sonho de criar soluções inovadoras.
+💻 Atualmente, sou estagiário na área de Segurança da Informação, focado em Arquitetura e Redes (Blue Team) na SEK. No entanto, meu objetivo é migrar para a área de desenvolvimento no futuro, unindo minha paixão por resolver problemas com a criatividade que encontrei na programação. Desde pequeno, gostava de inventar coisas, e foi no código que descobri um universo para criar soluções inovadoras.
 
-🎯 Gosto de desafios, inovação e de trocar ideias. Meu objetivo é unir conhecimentos em arquitetura de sistemas, redes e programação para desenvolver soluções tecnológicas de alto impacto.
+🐾 Além de tecnologia, sou uma pessoa que adora animais! Eles sempre fizeram parte da minha vida e são uma fonte de inspiração para mim, lembrando da importância de cuidar e inovar pensando no bem-estar de todos.
+
+🎯 Gosto de desafios, inovação e de trocar ideias. Meu objetivo é combinar conhecimentos em arquitetura de sistemas, redes e desenvolvimento para criar soluções tecnológicas de alto impacto.
 </p>
-</div>
+
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8A2BE2&height=120&section=footer"/>
