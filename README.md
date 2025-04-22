@@ -74,6 +74,5 @@
 🎯 Gosto de desafios, inovação e de trocar ideias. Meu objetivo é combinar conhecimentos em arquitetura de sistemas, redes e desenvolvimento para criar soluções tecnológicas de alto impacto.
 </p>
 
-![snake gif](https://github.com/ezpmartins/ezpmartins/blob/output/github-contribution-grid-snake.svg)
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8A2BE2&height=120&section=footer"/>
