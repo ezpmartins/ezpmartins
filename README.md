@@ -59,7 +59,7 @@
 <div align="center">   
 <h1>Informações para contato:</h1>
 <a href="https://www.linkedin.com/in/ezpmartins/">
-<img src = "https://skillicons.dev/icons?i=linkedin" height = "46em">
+<img src = "https://skillicons.dev/icons?i=linkedin" height = "46em" alt = "Linkedin" title="Linkedin">
 </div>
 <div align="center">
    
