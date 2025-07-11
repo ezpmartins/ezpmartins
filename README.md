@@ -67,7 +67,7 @@
 <p style="text-align: justify;">
 🎓 Estou no último semestre do curso de Análise e Desenvolvimento de Sistemas na SPTech e estou sempre em busca de novos aprendizados para me manter atualizado no mundo da tecnologia.
 
-💻 Atualmente, sou Analista de Postura em Cibersegurança JR, focado em Arquitetura e Redes (Blue Team) na SEK. No entanto, meu objetivo é migrar para a área de desenvolvimento no futuro, unindo minha paixão por resolver problemas com a criatividade que encontrei na programação. Desde pequeno, gostava de inventar coisas, e foi no código que descobri um universo para criar soluções inovadoras.
+💻 Atualmente, sou Analista de Postura em Cibersegurança Jr, focado em Arquitetura e Redes (Blue Team) na SEK. No entanto, meu objetivo é migrar para a área de desenvolvimento no futuro, unindo minha paixão por resolver problemas com a criatividade que encontrei na programação. Desde pequeno, gostava de inventar coisas, e foi no código que descobri um universo para criar soluções inovadoras.
 
 🐾 Além de tecnologia, sou uma pessoa que adora animais! Eles sempre fizeram parte da minha vida e são uma fonte de inspiração para mim, lembrando da importância de cuidar e inovar pensando no bem-estar de todos.
 
