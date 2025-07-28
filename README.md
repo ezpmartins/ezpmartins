@@ -65,7 +65,7 @@
    
 <h3> Sobre mim </h3>
 <p style="text-align: justify;">
-🎓 Estou no último semestre do curso de Análise e Desenvolvimento de Sistemas na SPTech e estou sempre em busca de novos aprendizados para me manter atualizado no mundo da tecnologia.
+🎓 Formado no curso de Análise e Desenvolvimento de Sistemas pela SPTech e continuo sempre em busca de novos aprendizados para me manter atualizado no mundo da tecnologia.
 
 💻 Atualmente, sou Analista de Postura em Cibersegurança Jr, focado em Arquitetura e Redes (Blue Team) na SEK. No entanto, meu objetivo é migrar para a área de desenvolvimento no futuro, unindo minha paixão por resolver problemas com a criatividade que encontrei na programação. Desde pequeno, gostava de inventar coisas, e foi no código que descobri um universo para criar soluções inovadoras.
 
