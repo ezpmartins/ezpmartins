@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8A2BE2&height=120&section=header"/>
  
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=8A2BE2&size=36&center=true&vCenter=true&width=1000&lines=Olá!+Eu+sou+o+Enzo+Martins;Tenho+20+anos+de+idade;Sou+natural+de+São+Paulo,+Brasil;Seja+bem+vindo(a)!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=8A2BE2&size=36&center=true&vCenter=true&width=1000&lines=Olá!+Eu+sou+o+Enzo+Martins;Tenho+21+anos+de+idade;Sou+natural+de+São+Paulo,+Brasil;Seja+bem+vindo(a)!+:%29)](https://git.io/typing-svg)
 
 &nbsp;
 
