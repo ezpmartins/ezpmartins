@@ -131,7 +131,7 @@ Se você gosta de tecnologia, desenvolvimento, cloud, cybersecurity ou simplesme
 
 <br>
 
-[![LinkedIn](https://img.shields.io/badge/Conecte--se%20comigo-LinkedIn-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/ezpmartins/)
+[![LinkedIn](https://img.shields.io/badge/Conecte--se%20comigo-LinkedIn-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https:www.linkedin.com/in/enzo-pereira-martins)
 
 </div>
 
