@@ -1,66 +1,138 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8A2BE2&height=120&section=header"/>
- 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=8A2BE2&size=36&center=true&vCenter=true&width=1000&lines=Olá!+Eu+sou+o+Enzo+Martins;Tenho+22+anos+de+idade;Sou+natural+de+São+Paulo,+Brasil;Seja+bem+vindo(a)!+:%29)](https://git.io/typing-svg)
-
-&nbsp;
-
-<div align="center">
-<div style="display: flex; justify-content: center; align-items: center; flex-wrap: wrap;">
-
-</div>
-
-
-&nbsp;
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:161B22,100:6E40C9&height=180&section=header&text=Enzo%20Martins&fontSize=42&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35"/>
 
 <div align="center">
 
-<div style="display: flex; justify-content: center; flex-wrap: wrap; max-width: 600px;">
-  <img src="https://skillicons.dev/icons?i=html" height="46em" alt="HTML" title="HTML">
-  <img src="https://skillicons.dev/icons?i=css" height="46em" alt="CSS" title="CSS">  
-  <img src="https://skillicons.dev/icons?i=js" height="46em" alt="JavaScript" title="JavaScript"> 
-  <img src="https://skillicons.dev/icons?i=ts" height="46em" alt="TypeScript" title="TypeScript">
-  <img src="https://skillicons.dev/icons?i=react" height="46em" alt="React" title="React">
-  <img src="https://skillicons.dev/icons?i=tailwind" height="46em" alt="Tailwind" title="Tailwind">
-  <img src="https://skillicons.dev/icons?i=java" height="46em" alt="Java" title="Java">  
-  <img src="https://skillicons.dev/icons?i=spring" height="46em" alt="Spring" title="Spring">
-  <img src="https://skillicons.dev/icons?i=nodejs" height="46em" alt="Node.js" title="Node.js">  
-  <img src="https://skillicons.dev/icons?i=python" height="46em" alt="Python" title="Python">
-</div>
+### 👨‍💻 Analista de Sistemas Pleno · Software Engineering · Backend
 
-<div style="display: flex; justify-content: center; flex-wrap: wrap; max-width: 600px;">
-  <img src="https://skillicons.dev/icons?i=cpp" height="46em" alt="C++" title="C++">
-  <img src="https://skillicons.dev/icons?i=kotlin" height="46em" alt="Kotlin" title="Kotlin">
-  <img src="https://skillicons.dev/icons?i=aws" height="46em" alt="AWS" title="AWS">
-  <img src="https://skillicons.dev/icons?i=azure" height="46em" alt="Azure" title="Azure">
-  <img src="https://skillicons.dev/icons?i=terraform" height="46em" alt="Terraform" title="Terraform">   
-  <img src="https://skillicons.dev/icons?i=mysql" height="46em" alt="MySQL" title="MySQL">  
-  <img src="https://skillicons.dev/icons?i=postgres" height="46em" alt="PostgreSQL" title="PostgreSQL">  
-  <img src="https://skillicons.dev/icons?i=git" height="46em" alt="Git" title="Git">
-  <img src="https://skillicons.dev/icons?i=docker" height="46em" alt="Docker" title="Docker">
-  <img src="https://skillicons.dev/icons?i=linux" height="46em" alt="Linux" title="Linux">  
-</div>
-
-</div>
-
-&nbsp;
-
-<div align="center">   
-<h1>Informações para contato:</h1>
-<a href="https://www.linkedin.com/in/ezpmartins/">
-<img src = "https://skillicons.dev/icons?i=linkedin" height = "46em" alt = "Linkedin" title="Linkedin">
-</div>
-<div align="center">
-   
-<h3> Sobre mim </h3>
-<p style="text-align: justify;">
-🎓 Formado no curso de Análise e Desenvolvimento de Sistemas pela SPTech e continuo sempre em busca de novos aprendizados para me manter atualizado no mundo da tecnologia.
-
-💻 Atualmente, sou Analista de Postura em Cibersegurança Jr, focado em Arquitetura e Redes (Blue Team) na SEK. No entanto, meu objetivo é migrar para a área de desenvolvimento no futuro, unindo minha paixão por resolver problemas com a criatividade que encontrei na programação. Desde pequeno, gostava de inventar coisas, e foi no código que descobri um universo para criar soluções inovadoras.
-
-🐾 Além de tecnologia, sou uma pessoa que adora animais! Eles sempre fizeram parte da minha vida e são uma fonte de inspiração para mim, lembrando da importância de cuidar e inovar pensando no bem-estar de todos.
-
-🎯 Gosto de desafios, inovação e de trocar ideias. Meu objetivo é combinar conhecimentos em arquitetura de sistemas, redes e desenvolvimento para criar soluções tecnológicas de alto impacto.
+<p>
+Construindo soluções, explorando tecnologia e transformando problemas em código.
 </p>
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/ezpmartins/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:)
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8A2BE2&height=120&section=footer"/>
+</div>
+
+---
+
+## 🧑‍💻 Sobre mim
+
+Sou formado em **Análise e Desenvolvimento de Sistemas pela SPTech** e atuo como **Analista de Sistemas Pleno na Claro Brasil**.
+
+Minha trajetória começou em **Segurança da Informação, Infraestrutura e Redes**, onde desenvolvi uma visão ampla sobre ambientes corporativos, segurança e arquitetura.
+
+Atualmente, estou direcionando cada vez mais minha carreira para **Desenvolvimento de Software**, com foco em **Backend, APIs, integração de sistemas e Cloud**.
+
+> 💡 Gosto de entender problemas complexos, criar soluções e transformar ideias em produtos funcionais.
+
+---
+
+## 🚀 Atualmente
+
+```text
+🏢 Claro Brasil
+💼 Analista de Sistemas Pleno
+🎯 Foco: Software Engineering & Backend
+☁️ Cloud: AWS / Azure
+⚙️ Backend: Java / Spring Boot
+🌐 APIs: REST / Integrações
+🗄️ Databases: PostgreSQL / MySQL
+🐳 DevOps: Git / Docker / CI/CD
+```
+
+---
+
+## 🛠️ Tech Stack
+
+### Backend
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=java,spring,nodejs,python,cpp,kotlin" />
+
+</div>
+
+### Frontend
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind" />
+
+</div>
+
+### Cloud & DevOps
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=aws,azure,docker,terraform,git,githubactions,linux" />
+
+</div>
+
+### Databases
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb" />
+
+</div>
+
+---
+
+## 🔐 Background em Cybersecurity
+
+Antes de direcionar meu foco para Software Engineering, atuei em **Cybersecurity, Arquitetura e Redes**, trabalhando com ambientes corporativos e soluções de segurança.
+
+Essa experiência me trouxe uma visão que considero essencial para desenvolvimento:
+
+```text
+Software
+   ↓
+Infraestrutura
+   ↓
+Cloud
+   ↓
+Redes
+   ↓
+Segurança
+   ↓
+Arquitetura
+```
+
+Hoje busco unir esses conhecimentos para desenvolver sistemas mais **seguros, escaláveis e resilientes**.
+
+---
+
+## 📌 Principais conhecimentos
+
+* ☕ Java & Spring Boot
+* 🔌 APIs REST
+* 🏗️ Arquitetura de Software
+* 🔐 Segurança de Aplicações
+* ☁️ AWS & Azure
+* 🐳 Docker
+* 🔄 CI/CD
+* 🗄️ PostgreSQL & MySQL
+* ⚛️ React & TypeScript
+* 🐍 Python
+* 🌐 Redes & Infraestrutura
+* 🛡️ Cybersecurity
+* 🔧 Git & GitHub
+
+---
+
+## 📫 Vamos conversar?
+
+<div align="center">
+
+Se você gosta de tecnologia, desenvolvimento, cloud, cybersecurity ou simplesmente quer trocar uma ideia sobre algum projeto, fique à vontade para entrar em contato.
+
+**Let's build something great. 🚀**
+
+<br>
+
+[![LinkedIn](https://img.shields.io/badge/Conecte--se%20comigo-LinkedIn-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/ezpmartins/)
+
+</div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6E40C9,50:161B22,100:0D1117&height=120&section=footer"/>
